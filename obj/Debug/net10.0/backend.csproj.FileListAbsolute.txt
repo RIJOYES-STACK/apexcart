@@ -147,3 +147,4 @@ C:\Users\user\Desktop\.net\FlipkartClone\backend\obj\Debug\net10.0\refint\backen
 C:\Users\user\Desktop\.net\FlipkartClone\backend\obj\Debug\net10.0\backend.pdb
 C:\Users\user\Desktop\.net\FlipkartClone\backend\obj\Debug\net10.0\backend.genruntimeconfig.cache
 C:\Users\user\Desktop\.net\FlipkartClone\backend\obj\Debug\net10.0\ref\backend.dll
+C:\Users\user\Desktop\.net\FlipkartClone\backend\obj\Debug\net10.0\backend.sourcelink.json
